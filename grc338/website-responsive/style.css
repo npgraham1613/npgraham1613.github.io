@@ -164,7 +164,8 @@ footer p {
 article {
 	background-color:rgb(0, 255, 251);
 	position: relative;
-	margin: 1em 17em;
+	max-width: 35em;
+	margin: auto;
 }
 
 @media screen and (min-width: 60em) {
